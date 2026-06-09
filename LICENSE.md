@@ -1,4 +1,4 @@
-# 
+# 原生 1Password 工具 Mac OS版 | 自动 1Password 工具 PC Windows版。集成 双因素认证 和 设备指纹识别，跨平台性能最大化。
 
 
 
